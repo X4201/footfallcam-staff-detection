@@ -9,5 +9,5 @@ To detect and track staff members wearing visible nametags in 3D fisheye camera 
 
 <img width="690" height="715" alt="image" src="https://github.com/user-attachments/assets/8c33717a-791b-4930-83a5-935ab124c402" />
 
-##Further enhancement
+## Further enhancement
 Try to lock the staff label for person with nametag when detected so the staff is recognising even they turn away and nametag not showed from footfall cam
